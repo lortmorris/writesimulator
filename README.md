@@ -1,5 +1,6 @@
 # writesimulator package
 
-A short description of your package.
+Open file, run the plugin and see how you file is type in real time
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Powered by
+César Casas

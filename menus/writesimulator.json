@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle writesimulator",
+        "command": "writesimulator:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "writesimulator",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "writesimulator:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
