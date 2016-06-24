@@ -1,14 +1,17 @@
 {
   "name": "writesimulator",
   "main": "./lib/writesimulator",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "load a file and type this in real time",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "writesimulator:toggle"
   },
-  "repository": "https://github.com/atom/writesimulator",
+  "repository": {
+    "https://github.com/atom/writesimulator.git",
+    "type": "git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
